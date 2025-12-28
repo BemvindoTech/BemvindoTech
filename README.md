@@ -104,7 +104,9 @@
 <h3>🔥 Streak Stats</h3>
 
 <p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bemvindotech&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<a href="https://streak-stats.demolab.com/?user=bemvindotech&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat">
+<img alt="Bemvindo's streak" src="https://streak-stats.demolab.com/?user=bemvindotech&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat"/>
+</a>
 </p>
 
 <h3>💻 GitHub Profile Stats</h3>
